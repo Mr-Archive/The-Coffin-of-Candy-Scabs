@@ -18925,15 +18925,15 @@
 			"\"D'accord .... .... ça . .....\""
 		],
 		"intro_10": [
-			"\"Bonne nouvelle ! À tous ceux avec des corps infestés de parasites,",
-			"Faeces Chocolate, le sponsor de notre segment d'aujourd'hui, dit...\""
+			"\"Bonne nouvelle! À tous ceux avec des corps infestés de parasites",
+			"Faeces Chocolate le sponsor de notre segment d'aujourd'hui, dit...\""
 		],
 		"intro_11": [
-			"\"Faeces Chocolate, le chocolat que même les parasites ne voleront pas.\""
+			"\"Faeces Chocolate, le chocolat que même","les parasites ne voleront pas.\""
 		],
 		"intro_12": [
-			"\"Dans des nouvelles sans rapport ! Halloween approche à grands pas, donc maintenant",
-			"ce serait le moment parfait pour faire le plein de toutes ces douceurs sucrées !\""
+			"\"Dans des nouvelles sans rapport!Halloween approche à grands pas donc",
+			" maintenant ce serait le moment parfait pour faire le plein de bonbons !\""
 		],
 		"intro_13": [
 			"\"...\""
@@ -18954,7 +18954,7 @@
 			"\"Ashley ! Qu'est-ce que tu fais !\""
 		],
 		"gamestart_2": [
-			"\"Muhahaha, maintenant tu vas bientôt devenir mon esclave zombie.\""
+			"\"Muhahaha, maintenant tu vas bientôt devenir","mon esclave zombie.\""
 		],
 		"gamestart_3": [
 			"\"... d'accord peu importe.\""
@@ -18969,7 +18969,7 @@
 			"\"Andy ! Aujourd'hui, nous sommes des créatures de la nuit !\""
 		],
 		"gamestart_7": [
-			"\"Tu fais encore ça ? Je ne pensais pas qu'Halloween t'intéresserait.\""
+			"\"Tu fais encore ça ?","Je ne pensais pas qu'Halloween t'intéresserait.\""
 		],
 		"gamestart_8": [
 			"\"Tu sais... étant enfermé ici et tout.\""
@@ -18987,10 +18987,10 @@
 			"\"!?\""
 		],
 		"gamestart_13": [
-			"\"he he tu as l'air surpris Andy cher.\""
+			"\"he he tu as l'air surpris cher Andy.\""
 		],
 		"gamestart_14": [
-			"\"Tu comprends que nous ne ferons pas de trick or treating cette année.\""
+			"\"Tu comprends que nous ne ferons pas","de trick or treating cette année.\""
 		],
 		"gamestart_15": [
 			"\"Yep\""
@@ -19030,8 +19030,8 @@
 			"\"Oh ouais, une fête de costume à deux, c'est vraiment excitant.\""
 		],
 		"cback_7": [
-			"\"Ne sois pas si négatif Andrew. Deux personnes à une fête de costume",
-			"peuvent faire beaucoup de choses ensemble.\""
+			"\"Ne sois pas si négatif Andrew. Deux personnes à une fête",
+			"de costume peuvent faire beaucoup de choses ensemble.\""
 		],
 		"cback_8": [
 			"\"Qu'est-ce que ça veut dire ?\""
@@ -19043,7 +19043,7 @@
 			"\"…Je vais préparer le terrain pour un autre tour.\""
 		],
 		"cback_11": [
-			"\"Boo, pourrions-nous au moins manger une partie de notre stock ?\""
+			"\"Boo, pourrions-nous au moins","manger une partie de notre stock ?\""
 		],
 		"cback_12": [
 			"\"Non, nous n'avons pas assez de légumes en conserve à gaspiller",
@@ -19077,7 +19077,7 @@
 		"tv_2": ["\"Eh bien… honnêtement, ce n'était pas si mal.\""],
 		"tv_3": ["\"Oh vraiment ?\""],
 		"tv_4": ["\"Ouais\""],
-		"tv_5": ["\"BWAAAARP\""],
+		"tv_5": ["BWAAAARP"],
 		"tv_6": ["\"?!?\""],
 		"tv_7": ["\"!?!\""],
 		"tv_8": ["\"…Oh non. Où sommes-nous ?!\""],
@@ -19093,8 +19093,8 @@
 		"tv_18": ["\"F monstres\""],
 		"tv_19": ["\"Eh, c'est impoli ! Présentez vos excuses tout de suite.\""],
 		"tv_20": [
-			"\"Ah, eh bien je suis désolé pour le comportement méchant de mon frère.",
-			"Je suis Leyley et voici Andy.\""
+			"\"Ah, eh bien je suis désolé pour le comportement méchant",
+			"de mon frère. Je suis Leyley et voici Andy.\""
 		],
 		"tv_21": ["\"Qui êtes-vous deux ?\""],
 		"tv_22": ["\"…\""],
@@ -19112,18 +19112,18 @@
 			"dans notre appartement s'il vous plaît.\""
 		],
 		"tv_27": [
-			"\"C'est la faute d'Eschar ! Il nous a transportés au mauvais endroit !",
-			"Ça ne s'est jamais produit avant.\""
+			"\"C'est la faute d'Eschar ! Il nous a transportés au mauvais",
+			"endroit !Ça ne s'est jamais produit avant.\""
 		],
 		"tv_28": ["\"Oh. Est-il possible de retourner d'où vous venez ?\""],
 		"tv_29": ["\"Peut-être laissez-moi-.\""],
-		"tv_31": ["\"Non ! Nous sommes coincés ! Nous devons partir et trouver Eschar.\""],
+		"tv_31": ["\"Non ! Nous sommes coincés !","Nous devons partir et trouver Eschar.\""],
 		"tv_32": [
 			"\"Bonne chance avec ça.\""
 		],
 		"tv_32a": [
 			"\"La porte a probablement été verrouillée de l'extérieur",
-			"et je soupçonne que les gardiens ont complètement bloqué la porte.\""
+			"et je pense que les gardiens ont bloqué la porte.\""
 		],
 		"tv_33": ["\"Oh non… eh bien dans ce cas.\""],
 		"tv_34": [
@@ -19146,11 +19146,11 @@
 			"C'est comme Halloween et Pâques en un !\""
 		],
 		"tv_44": [
-			"\"D'accord, je suis partant. Tout ce qui se termine par de la nourriture est un",
-			"jeu qui vaut la peine d'être joué.\""
+			"\"D'accord, je suis partant. Tout ce qui se termine par de",
+			"la nourriture est unjeu qui vaut la peine d'être joué.\""
 		],
 		"tv_45": ["\"Assurez-vous juste d'en laisser un peu pour le vide.\""],
-		"candy_1": ["Donc Valerie a parcouru votre appartement en cachant des bonbons",
+		"candy_1": ["Donc Valerie a parcouru votre","appartement en cachant des bonbons",
 		"Quel plaisir !!!"],
 		"candy_2": ["\"D'accord. Il y a 6 morceaux de bonbons cachés autour !\""],
 		"candy_3": ["\"Allez les chercher !!!\""],
@@ -19161,8 +19161,8 @@
 		"candyv_4": ["\"Vous voulez entendre ça à nouveau ? Non ! Je ne vous parle plus",
 		"tant que vous ne les trouvez pas.\""],
 		"candyv_5": ["\"…\""],
-		"toiletcandy": ["Il y a un morceau de bonbon ici… peut-être qu'il vaut mieux laisser celui-ci",
-		"passer. L'emballage n'est probablement pas suffisant."],
+		"toiletcandy": ["Il y a un bonbon ici… peut-être qu'il vaut mieux",
+		"laisser celui-ci,l'emballage n'est probablement pas suffisant."],
 		"toiletcandy2": ["","Pas de bonbon"],
 		"toiletcandy3": ["\"Eh ! Quel est le problème avec le bonbon de toilettes ?!\""],
 		"toiletcandy4": ["\"Oh ? Tu n'as pas aimé cet endroit ?\""],
@@ -19173,7 +19173,7 @@
 		"toiletcandy9": ["\". . .\""],
 		"bedcandy1": ["Parmi les nombreuses choses en dessous, tu trouves…"],
 		"bedcandy2": ["","Bonbon trouvé"],
-		"taxescandy1": ["Les impôts ne se mangent pas, mais le bonbon sous les impôts peut !"],
+		"taxescandy1": ["Les impôts ne se mangent pas, mais le";"bonbon sous les impôts peut !"],
 		"taxescandy2": ["","Bonbon trouvé"],
 		"parentscandy1": ["Tes parents ont baisé sur ce lit. Aussi, il y a un","morceau de bonbon sous cet oreiller."],
 		"parentscandy2": ["","Bonbon trouvé"],
@@ -19182,8 +19182,8 @@
 		"vhscandy2": ["","Bonbon trouvé"],
 		"sloughcandy1": ["\"Que regardes-tu ? Va juste trouver tes bonbons déjà.\""],
 		"sloughcandy2": ["\"…Il y a quelque chose sous cette cape qui n'était pas là avant.\""],
-		"sloughcandy3": ["\"…Oh tu as découvert si vite.",
-		"Je savais que c'était un mauvais endroit pour cacher des bonbons.\""],
+		"sloughcandy3": ["\"…Oh tu as découvert si vite. Je savais que c'était un",
+		"mauvais endroit pour cacher des bonbons.\""],
 		"sloughcandy4": ["\"Tiens. Espérons que le vide ne le remarquera pas.\""],
 		"candy6_1": ["Félicitations, tu as trouvé les 6 morceaux de bonbons !"],
 		"candy6_2": ["Seulement 5 comestibles. Mais ça va."],
@@ -19273,8 +19273,8 @@
 			"Slough a l'air de s'amuser."
 		],
 		"cultist_music_10": [
-			"\"C'était magnifique. Pourquoi ne m'a-t-on pas dit que le monde humain",
-			"avait une musique aussi incroyable ?!\""
+			"\"c'est magnifique. Pourquoi ne m'a-t-on pas dit que le",
+			"monde humainavait une musique aussi incroyable ?!\""
 		],
 		"cultist_music_11": [
 			"\"Humain ?\""
@@ -19301,8 +19301,8 @@
 			"\"…Oh bien, j'ai trouvé le bon endroit.\""
 		],
 		"eschar_encounter_6": [
-			"\"Je pensais que la personne jouant cette mélodie était toi",
-			"essayant de signaler ta position.\""
+			"\"Je pensais que la personne jouant cette mélodie",
+			"était toi essayant de signaler ta position.\""
 		],
 		"eschar_encounter_7a": [
 			"\"Ce n'était pas le cas mais quoi qu'il en soit, j'ai trouvé ce que nous",
@@ -19330,8 +19330,8 @@
 			"\"C'est euh, ok. Ces humains vont bien.\""
 		],
 		"eschar_encounter_14a": [
-			"\"Oh. . . quoi qu'il en soit, nous devrions y aller maintenant. J'ai laissé le",
-			"portail dans ce mécanisme de porte coulissante.\""
+			"\"Oh... quoi qu'il en soit, nous devrions y aller maintenant. J'ai",
+			"laissé le portail dans ce mécanisme de porte coulissante.\""
 		],
 		"eschar_encounter_14b": [
 			"\"Allez, partons.\""
@@ -19425,7 +19425,7 @@
 			"\"Y a-t-il quelque chose de mieux que notre appartement ?\""
 		],
 		"portal_6a": [
-			"\"Ouais. . . mais je suis aussi certain que quand les gardes reviendront",
+			"\"Ouais... mais je sais que quand les gardes reviendront",
 			"demain et verront la porte détruite et le corps sans vie\""
 		],
 		"portal_6b": [
@@ -19463,8 +19463,8 @@
 			"\"Cet endroit est. . . en fait assez beau.\""
 		],
 		"city_7": [
-			"\"Regarde ça. Ces gens ont vraiment mis les petits plats dans les grands",
-			"pour Halloween.\""
+			"\"Regarde ça. Ces gens ont vraiment mis les petits",
+			"plats dans les grands pour Halloween.\""
 		],
 		"city_8": [
 			"\"Ouais. . . je pense qu'on va bien s'intégrer.\""
@@ -19489,8 +19489,8 @@
 			"\"Haha Andy ! Ça chatouille !\""
 		],
 		"city_15": [
-			"\"Haha désolé, désolé. Je suppose que je suis juste excité de finalement",
-			"être libre de cet endroit.\""
+			"\"Haha désolé, désolé. Je suppose que je suis juste",
+			"excité de finalement être libre de cet endroit.\""
 		],
 		"city_16": [
 			"\"Ouais, ouais. Allez, prenons des bonbons bien mérités.\""
@@ -19505,8 +19505,8 @@
 			"\"Oh d'accord, il n'y a que 5 morceaux.\""
 		],
 		"candyeating_3": [
-			"\"Ouais… si cette petite fille n'avait pas mis ce morceau",
-			"dans les foutus toilettes, nous aurions pu partager équitablement.\""
+			"\"Ouais… si cette petite n'avait pas mis ce bonbon dans les foutus",
+			" toilettes, nous aurions pu partager équitablement.\""
 		],
 		"givecandy_1": [
 			"\"Tiens Andy. Tu peux l'avoir.\""
@@ -19529,7 +19529,7 @@
 			"\"Un nouveau départ ?\""
 		],
 		"givecandy_7a": [
-			"\"Ouais. . . je suppose que nous avons réussi à échapper non seulement à cet appartement mais à nos propres péchés aussi.\""
+			"\"Ouais. . . je suppose que nous avons réussi à échapper non seulement","à cet appartement mais à nos propres péchés aussi.\""
 		],
 		"givecandy_7b": [
 			"\"N'est-ce pas chanceux !\""
