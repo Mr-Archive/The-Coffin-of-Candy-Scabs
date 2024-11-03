@@ -1,5 +1,5 @@
 {
-	"langName": "English",
+	"langName": "Russian",
 	"langInfo": [
 		"The Coffin of Candy Scabs",
 		"",
@@ -9,37 +9,37 @@
 	"fontSize": 28,
 	"sysLabel": {
 		"Game": "The Coffin of Candy Scabs",
-		"Item": "Item",
-		"File": "File",
-		"Save": "Save to which file?",
-		"Load": "Load which file?"
+		"Item": "Предмет",
+		"File": "Файл",
+		"Save": "Сохранить в какой файл?",
+		"Load": "Загрузить какой файл?"
 	},
 	"sysMenus": {
-		"New Game": "New Game",
-		"Continue": "Continue",
-		"Items": "Items",
-		"Options": "Options",
-		"Controls": "Controls",
-		"Save": "Save",
-		"Load": "Load",
-		"Quit": "Quit",
-		"Language": "Language",
-		"Credits": "Credits",
-		"Quit Game": "Quit Game",
-		"UI Hints": "UI Hints",
-		"Text Speed": "Text Speed",
-		"Auto Saves": "Auto Saves",
-		"Fullscreen": "Fullscreen",
-		"Run Always": "Run Always",
-		"Run Speed": "Run Speed",
-		"Volume BGM": "Volume BGM",
-		"Volume SFX": "Volume SFX",
-		"Vision Room": "Vision Room",
-		"On": "On",
-		"Off": "Off",
-		"Slow": "Slow",
-		"Fast": "Fast",
-		"Instant": "Instant"
+		"New Game": "Новая игра",
+		"Continue": "Продолжить",
+		"Items": "Предметы",
+		"Options": "Настройки",
+		"Controls": "Управление",
+		"Save": "Сохранить",
+		"Load": "Загрузить",
+		"Quit": "Выйти",
+		"Language": "Язык",
+		"Credits": "Создатели",
+		"Quit Game": "Выйти из игры",
+		"UI Hints": "Подсказки интерфейса",
+		"Text Speed": "Скорость текста",
+		"Auto Saves": "Автосохранение",
+		"Fullscreen": "На весь экран",
+		"Run Always": "Всегда бегать",
+		"Run Speed": "Скорость бега",
+		"Volume BGM": "Громкость фоновой музыки",
+		"Volume SFX": "Громкость звуковых эффектов",
+		"Vision Room": "Комната видения",
+		"On": "Включено",
+		"Off": "Выключено",
+		"Slow": "Медленно",
+		"Fast": "Быстро",
+		"Instant": "Мгновенно"
 	},
 	"labelLUT": {
 		"WjQC7gwG": "Mop",
@@ -18897,770 +18897,781 @@
 			"Or can it?"
 		],
 		"intro_1": [
-			"\"My grandpa in the woods makes tooth necklaces",
-			"as a hobby.\""
+			"\"Мой дедушка в лесу делает ожерелья из зубов",
+			"в качестве хобби.\""
 		],
 		"intro_2": [
-			"\"We can ask him for one!\""
+			"\"Мы можем попросить его сделать одно!\""
 		],
 		"intro_3": [
-			"\"Hmm. Where is this grandpa ?\""
+			"\"Хмм. Где этот дедушка?\""
 		],
 		"intro_4": [
-			"\"He lives in the woods! Follow me !\""
+			"\"Он живет в лесу! Иди за мной!\""
 		],
 		"intro_5": [
-			"\"No need ! Eschar would you make another portal ?\""
+			"\"Не нужно! Эшар, ты не мог бы создать другой портал?\""
 		],
 		"intro_6": [
-			"\"... I’m not sure ..... . good ....\""
+			"\"... Я не уверен ..... . хорошо ....\""
 		],
 		"intro_7": [
-			"\".... on! We can’t keep .... Waiting !\""
+			"\".... вперед! Мы не можем оставаться .... В ожидании!\""
 		],
 		"intro_8": [
-			"\"Portal ?\""
+			"\"Портал?\""
 		],
 		"intro_9": [
-			"\"Fine .... .... it . .....\""
+			"\"Ладно .... .... сделай это . .....\""
 		],
 		"intro_10": [
-			"\"Good news! To all those with parasite-infested bodies,",
-			"Faeces Chocolate sponsor of today's segment says...\""
+			"\"Хорошие новости! Всем, у кого тела заражены паразитами,",
+			"шоколад Фекалии, спонсор сегодняшнего сегмента, говорит...\""
 		],
 		"intro_11": [
-			"\"Faeces Chocolate, the chocolate even parasites won’t steal.\""
+			"\"Шоколад Фекалии, шоколад, который даже паразиты не украдут.\""
 		],
 		"intro_12": [
-			"\"In unrelated news! Halloween is right around the corner so now",
-			"would be a perfect time to stock up on all those sweet treats!\""
+			"\"В не связанных новостях! Хэллоуин уже не за горами, так что сейчас",
+			"самое время запастись всеми этими сладостями!\""
 		],
 		"intro_13": [
 			"\"...\""
 		],
 		"intro_14": [
-			"\"B-L-I-P\""
+			"\"Б-Л-И-П\""
 		],
 		"intro_15": [
-			"\"I want to suck your~blood\""
+			"\"Я хочу высосать твою~кровь\""
 		],
 		"intro_16": [
-			"\"Gah!\""
+			"\"Гах!\""
 		],
 		"intro_17": [
-			"You bit your brothers neck"
+			"Ты укусил брата за шею"
 		],
 		"gamestart_1": [
-			"\"Ashley! What the hell!\""
+			"\"Эшли! Что за черт!\""
 		],
 		"gamestart_2": [
-			"\"Muhahaha, now you will soon become my zombie slave.\""
+			"\"Мухахаха, теперь ты скоро станешь моим зомби-рабом.\""
 		],
 		"gamestart_3": [
-			"\"...sure whatever.\""
+			"\"... ну ладно, что угодно.\""
 		],
 		"gamestart_4": [
 			"\"...\""
 		],
 		"gamestart_5": [
-			"\"Ahem.\""
+			"\"Эм...\""
 		],
 		"gamestart_6": [
-			"\"Andy! Today we are creatures of the night!\""
+			"\"Энди! Сегодня мы существа ночи!\""
 		],
 		"gamestart_7": [
-			"\"You're still doing this? I didn’t think Halloween would",
-			"be something that would interest you.\""
+			"\"Ты все еще этим занимаешься? Я не думал, что Хэллоуин будет",
+			"что-то, что тебя заинтересует.\""
 		],
 		"gamestart_8": [
-			"\"You know… being locked in here and all.\""
+			"\"Ты знаешь... мы заперты здесь и все такое.\""
 		],
 		"gamestart_9": [
-			"\"You are all I need to celebrate Halloween.\""
+			"\"Ты - все, что мне нужно для празднования Хэллоуина.\""
 		],
 		"gamestart_10": [
-			"\"Aww thanks…\""
+			"\"О, спасибо...\""
 		],
 		"gamestart_11": [
-			"\"…put on your costume!\""
+			"\"... надень свой костюм!\""
 		],
 		"gamestart_12": [
 			"\"!?\""
 		],
 		"gamestart_13": [
-			"\"he he you look surprised Andy dear.\""
+			"\"Хе-хе, ты выглядишь удивленным, дорогой Энди.\""
 		],
 		"gamestart_14": [
-			"\"You do understand we won't be trick or treating this year.\""
+			"\"Ты понимаешь, что в этом году мы не будем ходить на сладости.\""
 		],
 		"gamestart_15": [
-			"\"Yup\""
+			"\"Да\""
 		],
 		"gamestart_16": [
-			"\"Ok then.\""
+			"\"Ладно тогда.\""
 		],
 		"gamestart_17": [
-			"\"Oh really?!\""
+			"\"О, правда?!\""
 		],
 		"gamestart_18": [
-			"\"Yeah, why not? Anything that helps distract myself",
-			"from our situation would be nice.\""
+			"\"Да, почему бы и нет? Все, что поможет отвлечься",
+			"от нашей ситуации, будет неплохо.\""
 		],
 		"gamestart_19": [
-			"\"Great! Here you go!\""
+			"\"Отлично! Вот тебе!\""
 		],
 		"gamestart_20": [
-			"\"Thanks\""
+			"\"Спасибо\""
 		],
 		"cback_1": [
-			"\"…still fits perfectly\""
+			"\"... все еще идеально подходит\""
 		],
 		"cback_2": [
-			"\"…Good, good!\""
+			"\"... Хорошо, хорошо!\""
 		],
 		"cback_3": [
-			"\"So… TV and coffee?\""
+			"\"Так что... телевизор и кофе?\""
 		],
 		"cback_4": [
-			"\"Again…\""
+			"\"Снова...\""
 		],
 		"cback_5": [
-			"\"Boring, it's Halloween! We should throw a party!\""
+			"\"Скучно, это Хэллоуин! Мы должны устроить вечеринку!\""
 		],
 		"cback_6": [
-			"\"Oh yeah, two-person costume party, real exciting.\""
+			"\"О, да, вечеринка для двоих, очень захватывающе.\""
 		],
 		"cback_7": [
-			"\"Don’t be such a downer Andrew. Two people at a costume",
-			"party can do a lot together.\""
+			"\"Не будь таким угнетенным, Эндрю. Два человека на вечеринке в костюмах",
+			"могут сделать много вместе.\""
 		],
 		"cback_8": [
-			"\"What’s that supposed to mean?\""
+			"\"Что это значит?\""
 		],
 		"cback_9": [
-			"\"Nothing\""
+			"\"Ничего\""
 		],
 		"cback_10": [
-			"\"…I’ll get the grounds ready for another round.\""
+			"\"... Я подготовлю место для еще одного раунда.\""
 		],
 		"cback_11": [
-			"\"Boo, could we at least eat some of our stock?\""
+			"\"Бу, можем хотя бы поесть немного наших запасов?\""
 		],
 		"cback_12": [
-			"\"No, we don’t have enough canned vegetables to waste",
-			"it over a stupid holiday.\""
+			"\"Нет, у нас недостаточно консервированных овощей, чтобы тратить",
+			"их на глупый праздник.\""
 		],
 		"cback_13": [
-			"\"sigh\""
+			"\"вздох\""
 		],
 		"cback_14": [
-			"\"I pick what we watch tonight.\""
+			"\"Я выбираю, что мы будем смотреть сегодня вечером.\""
 		],
 		"cback_15": [
-			"\"Ok\""
+			"\"Ладно\""
 		],
 		"interlude_1": [
-			"\"You put in the teeth too?\""
+			"\"Ты тоже вставил зубы?\""
 		],
 		"interlude_2": [
-			"\"Of course! I'm not a vampire without fangs!\""
+			"\"Конечно! Я не вампир без клыков!\""
 		],
 		"interlude_3": [
-			"\"... I'm not doing that.\""
+			"\"... Я этого не буду делать.\""
 		],
 		"tv_1a": [
-			"\"Ahhhhhh nooooo\""
+			"\"Аааааа, нет\""
 		],
 		"tv_2a": [
-			"\"Splat Splat\""
+			"\"Шлеп, шлеп\""
 		],
-		"tv_1": ["\"So have you enjoyed Halloween?\""],
-        "tv_2": ["\"Well… honestly it hasn’t been that bad.\""],
-        "tv_3": ["\"Oh really?\""],
-        "tv_4": ["\"Yeah\""],
-        "tv_5": ["\"BWAAAARP\""],
-        "tv_6": ["\"?!?\""],
-        "tv_7": ["\"!?!\""],
-        "tv_8": ["\"…Oh no. Where are we?!\""],
-        "tv_9": ["\"Not Forest?\""],
-        "tv_10": ["\"O oh, hi there! Umm.\""],
-        "tv_11": ["\"Trick or Treat!\""],
-        "tv_12": ["\". . .\""],
-        "tv_13": ["\"How did you get in there!?\""],
-        "tv_14": ["\"Ah oh no! We angered Vampire monsters!\""],
-        "tv_15": ["\"No, they are like me.\""],
-        "tv_16": ["\"Well Andy, it seems we have company.\""],
-        "tv_17": ["\"who are you two freaks?\""],
-        "tv_18": ["\"F freaks\""],
-        "tv_19": ["\"Hay, that’s rude! Apologise right now.\""],
-        "tv_20": [
-            "\"Ahh, well I’m sorry for my brother's mean behavior.",
-            "I’m Leyley and this is Andy.\""
-        ],
-        "tv_21": ["\"Who are you two?\""],
-        "tv_22": ["\"…\""],
-        "tv_23": [
-            "\"Don’t tell the vampires your name! That’s how they",
-            "get into your house!!!\""
-        ],
-        "tv_24": ["\"(That’s not even…)\""],
-        "tv_25": [
-            "\"Don’t be silly, I’m Valerie and this is Slough.",
-            "Nice to meet you Mrs Leyley\""
-        ],
-        "tv_26": [
-            "\"Ah goodie, why hello Valerie. Tell me what you two",
-            "are doing in our apartment please.\""
-        ],
-        "tv_27": [
-            "\"It's Eschar’s fault! He somehow transported us to the",
-            "wrong place! This has never happened before.\""
-        ],
-        "tv_28": ["\"Oh. Is it possible to go back where you came?\""],
-        "tv_29": ["\"Maybe let me-.\""],
-        "tv_31": ["\"Nope! Stuck we are! We must leave and find Eschar.\""],
-        "tv_32": [
-            "\"Good luck with that.\""
-        ],
-        "tv_32a": [
-			"\"The door has likely been locked from the outside",
-            "and I suspect the wardens have completely blocked the door.\""
-        ],
-        "tv_33": ["\"Oh no… well in that case.\""],
-        "tv_34": [
-            "\"How about we all share some of the candy I picked",
-            "up trick or treating!\""
-        ],
-        "tv_35": ["\"W what? You mustn’t… the void will get-.\""],
-        "tv_36": ["\"Candy?! Like the food!\""],
-        "tv_37": ["\"Yeah. Would you like some.\""],
-        "tv_38": ["\"Yes please.\""],
-        "tv_39": [
-            "\"…Hmmmm but that’s not very fun. I collected this",
-            "Candy.\""
-        ],
-        "tv_40": ["\". . .\""],
-        "tv_41": ["\"I know! Lets play a game.\""],
-        "tv_42": ["\"A game?\""],
-        "tv_43": [
-            "\"Yeah! I’ll hide the candy and you get to go find it.",
-            "Its like Halloween and easter in one!\""
-        ],
-        "tv_44": [
-            "\"Alright I’m game. Anything that ends in food is a",
-            "game worth playing.\""
-        ],
-        "tv_45": ["\"Just make sure to leave some for the void.\""],
-		"candy_1": ["So Valerie went around your apartment hiding candy",
-		"What fun!!!"],
-		"candy_2": ["\"Alright. There are 6 pieces of candy hidden around!\""],
-		"candy_3": ["\"Go find them!!!\""],
-		"candy_4": ["Well, what are you waiting for?", "Sweet goodness awaits!!"],
-		"candyv_1": ["\"Sorry no hints! You need to earn this!\""],
-		"candyv_2": ["\"N nope. I’m staying firm, no hints.\""],
-		"candyv_3": ["\"…Fine! There’s three in this room and 1 in each other.\""],
-		"candyv_4": ["\"You want to hear that again? Nope! I’m not speaking to you","anymore until you find them.\""],
-		"candyv_5": ["\"…\""],
-		"toiletcandy": ["There's a piece of candy here… maybe it's best to let this","one go. The wrapper probably isn’t enough."],
-		"toiletcandy2": ["","Got NO candy"],
-		"toiletcandy3": ["\"Hay! Whats the deal with the toilet Candy?!\""],
-		"toiletcandy4": ["\"Oh? You didn’t like that spot?\""],
-		"toiletcandy5": ["\"…Its toilet Candy. What do you think?\""],
-		"toiletcandy6": ["\"Hay don’t be mean! I though you would find it funny.\""],
-		"toiletcandy7": ["\"There is nothing funny about this.\""],
-		"toiletcandy8": ["\"Whatever. Lets just go find the rest.\""],
-		"toiletcandy9": ["\". . .\""],
-		"bedcandy1": ["Amongst the many things under here you find…"],
-		"bedcandy2": ["","Got Candy"],
-		"taxescandy1": ["Taxes cannot be eaten, but the candy under the taxes can!"],
-		"taxescandy2": ["","Got Candy"],
-		"parentscandy1": ["Your parents have fucked on this bed. Also, there’s a","piece of candy under this pillow."],
-		"parentscandy2": ["","Got Candy"],
-		"vhscandy1": ["Shoved into the VHS player is a Candy Bar…","hopefully this won't damage anything."],
-		"vhscandy2": ["","Got Candy"],
-		"sloughcandy1": ["\"What are you looking at? Just go find your candy already.\""],
-		"sloughcandy2": ["\"…Theres something under that cloak of your","that wasn’t there before.\""],
-		"sloughcandy3": ["\"…Oh you found out so quickly.","I knew this was a bad place to hide Candy.\""],
-		"sloughcandy4": ["\"Here. Hopefully, the void won't notice.\""],
-		"candy6_1": ["Congratulations, you found all 6 pieces of candy!"],
-		"candy6_2": ["Only 5 edible. But that’s alright."],
-		"candy6_3": ["\"Well Andy. We did it.\""],
-		"candy6_4": ["\"Yes we did.\""],
-		"candy6_5": ["\"Come on, let's go thank our new ‘friends’.\""],
-		"candy6_6": ["\"Sure.\""],
-        "all_candy_1": [
-            "\"Wow congratulations! Wasn’t that fun?\""
-        ],
-        "all_candy_2": [
-            "\"Yeah it sure was.\""
-        ],
-        "all_candy_3": [
-            "\"Even if it was a tad unconventional.",
-            "Andy and I both had much more fun than initially anticipated.\""
-        ],
-        "all_candy_4": [
-            "\"Heh.\""
-        ],
-        "all_candy_5": [
-            "\"Yeah, I guess you deserve a thank you, not just",
-            "for the candy.\""
-        ],
-        "all_candy_6": [
-            "\"Aww thank you!! I’m so happy I could find myself",
-            "new friends even in this strange place.\""
-        ],
-        "all_candy_7": [
-            "\"F friends?\""
-        ],
-        "all_candy_8": [
-            "\"That’s right! We're all friends now.\""
-        ],
-        "all_candy_9": [
-            "\"Oh I… can’t but appreciate the offer.\""
-        ],
-        "all_candy_10": [
-            "\"…right… so.\""
-        ],
-        "all_candy_11": [
-            "\"How long do you expect to stay here? Sadly we",
-            "can’t host you forever.\""
-        ],
-        "all_candy_12": [
-            "\"Eschar will find us. He’s probably working very hard",
-            "right now to teleport to us as we speak.\""
-        ],
-        "all_candy_13": [
-            "\"I am confident that any moment now he will appear",
-            "in the bathroom as we once did!\""
-        ],
-        "all_candy_14": [
-            "\"Then we may leave in peace.\""
-        ],
-        "all_candy_15": [
-            "\"Well that sounds great. But what do you mean",
-            "by telep-\""
-        ],
+		"tv_1": ["\"Так тебе понравился Хэллоуин?\""],
+		"tv_2": ["\"Ну... честно говоря, это не так уж и плохо.\""],
+		"tv_3": ["\"О, правда?\""],
+		"tv_4": ["\"Да\""],
+		"tv_5": ["\"БВУУУАП\""],
+		"tv_6": ["\"?!?\""],
+		"tv_7": ["\"!?!\""],
+		"tv_8": ["\"...О нет. Где мы?!\""],
+		"tv_9": ["\"Не лес?\""],
+		"tv_10": ["\"О, привет! Эм.\""],
+		"tv_11": ["\"Сладости или угощения!\""],
+		"tv_12": ["\"...\""],
+		"tv_13": ["\"Как вы туда попали!?\""],
+		"tv_14": ["\"Ах, о нет! Мы разозлили вампирских монстров!\""],
+		"tv_15": ["\"Нет, они как я.\""],
+		"tv_16": ["\"Ну, Энди, похоже, у нас гости.\""],
+		"tv_17": ["\"Кто вы, двое чудиков?\""],
+		"tv_18": ["\"Чудики\""],
+		"tv_19": ["\"Эй, это грубо! Извинитесь прямо сейчас.\""],
+		"tv_20": [
+			"\"Ах, ну я извиняюсь за грубое поведение моего брата.",
+			"Я Лейли, а это Энди.\""
+		],
+		"tv_21": ["\"Кто вы двое?\""],
+		"tv_22": ["\"...\""],
+		"tv_23": [
+			"\"Не говорите вампирам свое имя! Вот как они",
+			"проникают в ваш дом!!!\""
+		],
+		"tv_24": ["\"(Это даже не...)\""],
+		"tv_25": [
+			"\"Не будь глупым, я Валери, а это Слаф.",
+			"Рада познакомиться с вами, миссис Лейли\""
+		],
+		"tv_26": [
+			"\"Ах, хорошо, привет, Валери. Скажите, чем вы двое",
+			"занимаетесь в нашей квартире, пожалуйста.\""
+		],
+		"tv_27": [
+			"\"Это виноват Эшар! Он как-то перенес нас в",
+			"неправильное место! Это никогда не происходило раньше.\""
+		],
+		"tv_28": ["\"О. Возможно, возможно вернуться, откуда вы пришли?\""],
+		"tv_29": ["\"Может, дай мне-.\""],
+		"tv_31": ["\"Нет! Мы застряли! Мы должны уйти и найти Эшара.\""],
+		"tv_32": [
+			"\"Удачи с этим.\""
+		],
+		"tv_32a": [
+			"\"Дверь, вероятно, была заперта снаружи",
+			"и я подозреваю, что стражи полностью заблокировали дверь.\""
+		],
+		"tv_33": ["\"О нет… в этом случае.\""],
+		"tv_34": [
+			"\"Как насчет того, чтобы все вместе поделиться конфетами, которые я собрала",
+			"на Хэллоуин!\""
+		],
+		"tv_35": ["\"Ч-ч-чего? Ты не должна... пустота тебя...\""],
+		"tv_36": ["\"Конфета?! Как еда!\""],
+		"tv_37": ["\"Да. Хочешь немного?\""],
+		"tv_38": ["\"Да, пожалуйста.\""],
+		"tv_39": [
+			"\"...Хммм, но это не очень весело. Я собрала эту",
+			"конфету.\""
+		],
+		"tv_40": ["\"...\""],
+		"tv_41": ["\"Я знаю! Давай сыграем в игру.\""],
+		"tv_42": ["\"Игра?\""],
+		"tv_43": [
+			"\"Да! Я спрячу конфеты, а ты их найдешь.",
+			"Это как Хэллоуин и Пасха в одном!\""
+		],
+		"tv_44": [
+			"\"Ладно, я согласен. Все, что заканчивается едой, - это",
+			"игра, в которую стоит играть.\""
+		],
+		"tv_45": ["\"Просто убедитесь, что оставите немного для пустоты.\""],
+		"candy_1": ["Итак, Валери пошла по вашей квартире и прятала конфеты",
+		"Как весело!!!"],
+		"candy_2": ["\"Ладно. Вокруг спрятано 6 кусочков конфеты!\""],
+		"candy_3": ["\"Иди найди их!!!\""],
+		"candy_4": ["Ну что ты ждешь?", "Сладкое счастье ждет!!"],
+		"candyv_1": ["\"Извини, никаких подсказок! Ты должен это заслужить!\""],
+		"candyv_2": ["\"Н-нет. Я остаюсь твердой, никаких подсказок.\""],
+		"candyv_3": ["\"... Ладно! Три в этой комнате и по одной в каждой другой.\""],
+		"candyv_4": ["\"Ты хочешь услышать это снова? Нет! Я не буду говорить с тобой",
+		"пока ты их не найдешь.\""],
+		"candyv_5": ["\"...\""],
+		"toiletcandy": ["Здесь есть кусок конфеты... может, лучше оставить это",
+		"в покое. Обертка, вероятно, недостаточна."],
+		"toiletcandy2": ["","Нет конфеты"],
+		"toiletcandy3": ["\"Эй! Какое дело с конфетами в туалете?!\""],
+		"toiletcandy4": ["\"О? Тебе не понравилось это место?\""],
+		"toiletcandy5": ["\"...Это конфета из туалета. Что ты думаешь?\""],
+		"toiletcandy6": ["\"Эй, не будь жестоким! Я думала, тебе будет весело.\""],
+		"toiletcandy7": ["\"В этом нет ничего смешного.\""],
+		"toiletcandy8": ["\"Ладно. Давай просто найдем остальные.\""],
+		"toiletcandy9": ["\"...\""],
+		"bedcandy1": ["Среди многих вещей под этой кроватью ты находишь…"],
+		"bedcandy2": ["","Есть конфета"],
+		"taxescandy1": ["Налоги не могут быть съедены, но конфета под налогами может!"],
+		"taxescandy2": ["","Есть конфета"],
+		"parentscandy1": ["Твои родители занялись сексом на этой кровати. Также есть",
+		"кусок конфеты под этой подушкой."],
+		"parentscandy2": ["","Есть конфета"],
+		"vhscandy1": ["Засунутый в видеопроигрыватель конфетный батончик...",
+		"надеюсь, это ничего не повредит."],
+		"vhscandy2": ["","Есть конфета"],
+		"sloughcandy1": ["\"На что ты смотришь? Просто иди найди свою конфету уже.\""],
+		"sloughcandy2": ["\"...Что-то под тем плащом, что",
+		"не было там раньше.\""],
+		"sloughcandy3": ["\"...О, ты нашел это так быстро.",
+		"Я знал, что это плохое место для прятки конфеты.\""],
+		"sloughcandy4": ["\"Вот. Надеюсь, пустота не заметит.\""],
+		"candy6_1": ["Поздравляем, вы нашли все 6 кусочков конфеты!"],
+		"candy6_2": ["Только 5 съедобны. Но это нормально."],
+		"candy6_3": ["\"Ну, Энди. Мы сделали это.\""],
+		"candy6_4": ["\"Да, мы сделали.\""],
+		"candy6_5": ["\"Пойдем, поблагодарим наших новых ‘друзей’.\""],
+		"candy6_6": ["\"Конечно.\""],
+		"all_candy_1": [
+			"\"Ух ты, поздравляю! Разве это не было весело?\""
+		],
+		"all_candy_2": [
+			"\"Да, это было здорово.\""
+		],
+		"all_candy_3": [
+			"\"Даже если это было немного необычно.",
+			"И Энди, и я получили гораздо больше удовольствия, чем ожидали.\""
+		],
+		"all_candy_4": [
+			"\"Хех.\""
+		],
+		"all_candy_5": [
+			"\"Да, я думаю, ты заслуживаешь благодарности, не только",
+			"за конфеты.\""
+		],
+		"all_candy_6": [
+			"\"Ааа, спасибо!! Мне так приятно, что я смогла найти",
+			"новых друзей даже в этом странном месте.\""
+		],
+		"all_candy_7": [
+			"\"Д-друзья?\""
+		],
+		"all_candy_8": [
+			"\"Совершенно верно! Мы теперь все друзья.\""
+		],
+		"all_candy_9": [
+			"\"О, я... не могу не оценить это предложение.\""
+		],
+		"all_candy_10": [
+			"\"...правда... так.\""
+		],
+		"all_candy_11": [
+			"\"Как долго вы планируете здесь оставаться? К сожалению, мы",
+			"не можем принимать вас вечно.\""
+		],
+		"all_candy_12": [
+			"\"Эшар найдет нас. Он, вероятно, очень усердно работает,",
+			"чтобы телепортироваться к нам прямо сейчас.\""
+		],
+		"all_candy_13": [
+			"\"Я уверена, что в любой момент он появится",
+			"в ванной, как мы это сделали в прошлый раз!\""
+		],
+		"all_candy_14": [
+			"\"Тогда мы можем уйти в мирном состоянии.\""
+		],
+		"all_candy_15": [
+			"\"Что ж, это звучит здорово. Но что ты имеешь в виду",
+			"под телепортом-\""
+		],
 		"cultist_music_1a": [
-            "Your neighbour's playing his music again."
-        ],
+			"Твой сосед снова включает свою музыку."
+		],
 		"cultist_music_1b": [
-            "All things considered it's surprising he hasn’t been","trying to blast that horrible tune all Halloween."
-        ],
-        "cultist_music_2": [
-            "Oh! Someone’s enjoying it."
-        ],
-        "cultist_music_3": [
-            "\"Y-you’re enjoying this?!\""
-        ],
-        "cultist_music_4": [
-            "\"It is wonderful! I didn’t know such beautiful",
-            "tunes could exist.\""
-        ],
-        "cultist_music_5": [
-            "\"I must dance!!!\""
-        ],
-        "cultist_music_6": [
-            "\"Ohhh, I didn’t know you danced.\""
-        ],
-        "cultist_music_7": [
-            "\"I don’t! But I must now!\""
-        ],
-        "cultist_music_8": [
-            "Slough seemed like he’s having fun"
-        ],
-        "cultist_music_10": [
-            "\"That was beautiful. Why wasn’t I told the human",
-            "world had such incredible music in it?!\""
-        ],
-        "cultist_music_11": [
-            "\"Human?\""
-        ],
-        "cultist_music_12": [
-            "\"Ah ha, he’s being silly.\""
-        ],
-        "cultist_music_13": [
-            "\"Right…\""
-        ],
-		        "eschar_encounter_1": [
-            "\"!?\""
-        ],
-        "eschar_encounter_2": [
-            "\"!?\""
-        ],
-        "eschar_encounter_3": [
-            "\"!!\""
-        ],
-        "eschar_encounter_4": [
-            "\"Eschar!!! You found us!\""
-        ],
-        "eschar_encounter_5": [
-            "\"…Oh good I found the right place.\""
-        ],
-        "eschar_encounter_6": [
-            "\"I had thought the person playing that tune was you",
-            "trying to signal your location.\""
-        ],
-        "eschar_encounter_7a": [
-            "\"It wasn’t but regardless I found what we were",
-            "looking for and will make the necklace for the void…\""
-        ],
+			"С учетом всего, удивительно, что он не пытался",
+			"забрасывать эту ужасную мелодию на весь Хэллоуин."
+		],
+		"cultist_music_2": [
+			"О! Кто-то наслаждается этим."
+		],
+		"cultist_music_3": [
+			"\"Т-тебе это нравится?!\""
+		],
+		"cultist_music_4": [
+			"\"Это прекрасно! Я не знала, что такие красивые",
+			"мелодии могут существовать.\""
+		],
+		"cultist_music_5": [
+			"\"Я должна танцевать!!!\""
+		],
+		"cultist_music_6": [
+			"\"Ох, я не знала, что ты танцуешь.\""
+		],
+		"cultist_music_7": [
+			"\"Я не танцую! Но сейчас я должна!\""
+		],
+		"cultist_music_8": [
+			"Слоу, кажется, получает удовольствие"
+		],
+		"cultist_music_10": [
+			"\"Это было прекрасно. Почему мне не сказали, что в мире людей",
+			"есть такая невероятная музыка?!\""
+		],
+		"cultist_music_11": [
+			"\"Человек?\""
+		],
+		"cultist_music_12": [
+			"\"Ах, он просто дразнит.\""
+		],
+		"cultist_music_13": [
+			"\"Правда…\""
+		],
+		"eschar_encounter_1": [
+			"\"!?\""
+		],
+		"eschar_encounter_2": [
+			"\"!?\""
+		],
+		"eschar_encounter_3": [
+			"\"!!\""
+		],
+		"eschar_encounter_4": [
+			"\"Эшар!!! Ты нашел нас!\""
+		],
+		"eschar_encounter_5": [
+			"\"...О, хорошо, что я нашел правильное место.\""
+		],
+		"eschar_encounter_6": [
+			"\"Я думал, что человек, играющий эту мелодию, был тобой",
+			"пытающимся сигнализировать о своем местоположении.\""
+		],
+		"eschar_encounter_7a": [
+			"\"Это не так, но в любом случае я нашел то, что мы искали",
+			"и сделаю ожерелье для пустоты…\""
+		],
 		"eschar_encounter_7b": [
-            "\"After we get back home.\""
-        ],
-        "eschar_encounter_8": [
-            "\"…Huh look Andy the door's gone.\""
-        ],
-        "eschar_encounter_9": [
-            "\"..?\""
-        ],
-        "eschar_encounter_10": [
-            "\"Oh no! Vampires!\""
-        ],
-        "eschar_encounter_11": [
-            "\". . .\""
-        ],
-        "eschar_encounter_12": [
-            "\". . .\""
-        ],
-        "eschar_encounter_13": [
-            "\"It's umm ok. These humans are fine.\""
-        ],
-        "eschar_encounter_14a": [
-            "\"Oh. . . regardless, we should go now. I left the","portal in that sliding door contraption.\""
-        ],
+			"\"После того, как мы вернемся домой.\""
+		],
+		"eschar_encounter_8": [
+			"\"...Хм, посмотри, Энди, двери больше нет.\""
+		],
+		"eschar_encounter_9": [
+			"\"..?\""
+		],
+		"eschar_encounter_10": [
+			"\"О нет! Вампиры!\""
+		],
+		"eschar_encounter_11": [
+			"\". . .\""
+		],
+		"eschar_encounter_12": [
+			"\". . .\""
+		],
+		"eschar_encounter_13": [
+			"\"Это, э-э, нормально. Эти люди вполне приличные.\""
+		],
+		"eschar_encounter_14a": [
+			"\"О. . . в любом случае, мы должны идти сейчас. Я оставил",
+			"портал в этом скользящем дверном устройстве.\""
+		],
 		"eschar_encounter_14b": [
-            "\"Come on, let’s go.\""
-        ],
-        "eschar_encounter_15": [
-            "\". . .W well it's been nice meeting you Mr Andy",
-            "and Mrs Leyley.\""
-        ],
-        "eschar_encounter_16": [
-            "\"Enjoy the Candy!\""
-        ],
-        "eschar_encounter_17": [
-            "\". . .Yeah umm I’ll catch up in a moment.\""
-        ],
-        "eschar_encounter_18": [
-            "\"You. Older Woman. Leyley\""
-        ],
-        "eschar_encounter_19": [
-            "\"Yes?\""
-        ],
-        "eschar_encounter_20": [
-            "\"Are you one of us?\""
-        ],
-        "eschar_encounter_21": [
-            "\"Come again?\""
-        ],
-        "eschar_encounter_22": [
-            "\"Your soul it emanates. . .ah never mind!\""
-        ],
-        "eschar_encounter_23": [
-            "\"BYE\""
-        ],
-        "eschar_encounter_24": [
-            "Well, that was weird"
-        ],
+			"\"Давай, пойдем.\""
+		],
+		"eschar_encounter_15": [
+			"\". . .Хорошо, было приятно познакомиться с тобой, мистер Энди",
+			"и миссис Лейли.\""
+		],
+		"eschar_encounter_16": [
+			"\"Наслаждайтесь конфетами!\""
+		],
+		"eschar_encounter_17": [
+			"\". . .Да, э-э, я пойду за вами через минуту.\""
+		],
+		"eschar_encounter_18": [
+			"\"Ты. Пожилая женщина. Лейли\""
+		],
+		"eschar_encounter_19": [
+			"\"Да?\""
+		],
+		"eschar_encounter_20": [
+			"\"Ты одна из нас?\""
+		],
+		"eschar_encounter_21": [
+			"\"Повторите?\""
+		],
+		"eschar_encounter_22": [
+			"\"Твоя душа излучает. . .ах, никогда mind!\""
+		],
+		"eschar_encounter_23": [
+			"\"ПОКА\""
+		],
+		"eschar_encounter_24": [
+			"Что ж, это было странно"
+		],
 		"eschar_encounter_25": [
-            "\"Wanna follow them?\""
-        ],
+			"\"Хочешь последовать за ними?\""
+		],
 		"eschar_encounter_26": [
-            "\"Anythings better than being couped up in here.\""
-        ],
+			"\"Все лучше, чем сидеть здесь взаперти.\""
+		],
 		"cultist_death_1": [
-            "He’s been killed recently by blunt force it seems"
+			"Похоже, его недавно убили тупым предметом."
 		],
 		"cultist_death_2": [
-            "He’s missing almost all of his teeth."
+			"У него почти все зубы отсутствуют."
 		],
 		"cultist_death_3": [
-            "\"Gross… think that other weird guy killed him?\""
-        ],
+			"\"Гадость… думаешь, что другой странный парень убил его?\""
+		],
 		"cultist_death_4": [
-            "\"Its not our business.\""
-        ],
+			"\"Это не наше дело.\""
+		],
 		"officedoor1": [
-            "Gone for the Halloween public break!"
-        ],
-        "keepitall_1": [
-            "\"That’s a lot of money you greedy cow! Hand some over!\""
-        ],
-        "keepitall_2": [
-            "\"No way can you be trusted with this much money!",
-            "I’ll handle our funds.\""
-        ],
-        "keepitall_3": [
-            "\"Jeez thanks for trusting me\""
-        ],
-        "split5050_1": [
-            "\"Here you go!\""
-        ],
-        "split5050_2": [
-            "\"Aww thank you. You do care about me.\""
-        ],
-        "split5050_3": [
-            "\"As if money was my only way of showing affection,",
-            "Andy.\""
-        ],
-        "portal_1": [
-            "A mysterious ripple emanates from the elevator."
-        ],
-        "portal_2": [
-            "\"Andy. . . do you feel that?\""
-        ],
-        "portal_3": [
-            "\"I think so. . . wait! I can see something;",
-            "it looks like a town!\""
-        ],
-        "portal_4": [
-            "\"Huh so it is. . .\""
-        ],
-        "portal_5": [
-            "\"Is anything better than the apartment room?\""
-        ],
-        "portal_6a": [
-            "\"Yeah. . . but I’m also certain when the guards come","back tomorrow and see the destroyed door and dead body\""
-        ],
-        "portal_6b": [
-            "\"We will be the obvious culprits.\""
-        ],
-        "portal_7": [
-            "\"Well this might just be our ticket out.\""
-        ],
-        "portal_8": [
-            "\"Ready for our next adventure Andy?\""
-        ],
-        "portal_9": [
-            "\"Yeah\""
-        ],
-        "portal_10": [
-            "\"Then this one is called, Andy and Leyley and the",
-            "mysterious new lands.\""
-        ],
-        "city_1": [
-            "\"Ohh my head\""
-        ],
-        "city_2": [
-            "\"Oh… OH wow!\""
-        ],
-        "city_3": [
-            "\"nrgnn\""
-        ],
-        "city_4": [
-            "\"How nauseating. . .\""
-        ],
-        "city_5": [
-            "\". . .whoa.\""
-        ],
-        "city_6": [
-            "\"This place is. . . quite beautiful actually.\""
-        ],
-        "city_7": [
-            "\"Look at that. These people really went all out",
-            "for Halloween.\""
-        ],
-        "city_8": [
-            "\"Yeah. . . I think we will blend in just fine.\""
-        ],
-        "city_9": [
-            "\"Muhaha, how evil of you Count Leyley!\""
-        ],
-        "city_10": [
-            "\"Well Count Andy. Shall we celebrate our escape",
-            "by sharing the candy that little girl gave us?\""
-        ],
-        "city_11": [
-            "\"No! I want to suck your blood!\""
-        ],
-        "city_12": [
-            "\"What no!!!\""
-        ],
-        "city_13": [
-            "\"Payback time!!\""
-        ],
-        "city_14": [
-            "\"Haha Andy! That tickles!\""
-        ],
-        "city_15": [
-            "\"Haha sorry, sorry. Guess I’m just excited to finally",
-            "be free of that place.\""
-        ],
-        "city_16": [
-            "\"Yeah, yeah. Come on, let's have some well-deserved Candy\""
-        ],
+			"Ушел на общественный перерыв в Хэллоуин!"
+		],
+		"keepitall_1": [
+			"\"Это много денег, ты жадная корова! Отдай немного!\""
+		],
+		"keepitall_2": [
+			"\"Никак не можешь мне доверять с такой суммой денег!",
+			"Я возьму на себя наши финансы.\""
+		],
+		"keepitall_3": [
+			"\"Черт, спасибо за доверие мне\""
+		],
+		"split5050_1": [
+			"\"Вот, держи!\""
+		],
+		"split5050_2": [
+			"\"Ааа, спасибо. Ты заботишься обо мне.\""
+		],
+		"split5050_3": [
+			"\"Как будто деньги - мой единственный способ выражения любви,",
+			"Энди.\""
+		],
+		"portal_1": [
+			"Загадочная рябь исходит от лифта."
+		],
+		"portal_2": [
+			"\"Энди… ты это чувствуешь?\""
+		],
+		"portal_3": [
+			"\"Я думаю, да… подожди! Я вижу что-то;",
+			"это похоже на город!\""
+		],
+		"portal_4": [
+			"\"Хм, так оно и есть…\""
+		],
+		"portal_5": [
+			"\"Есть ли что-то лучше, чем квартира?\""
+		],
+		"portal_6a": [
+			"\"Да… но я также уверена, когда стражи вернутся завтра и увидят",
+			"разрушенную дверь и мертвое тело\""
+		],
+		"portal_6b": [
+			"\"Мы будем очевидными виновниками.\""
+		],
+		"portal_7": [
+			"\"Что ж, это может быть нашим билетом наружу.\""
+		],
+		"portal_8": [
+			"\"Готов к нашему следующему приключению, Энди?\""
+		],
+		"portal_9": [
+			"\"Да\""
+		],
+		"portal_10": [
+			"\"Тогда это будет называться \"Энди и Лейли и",
+			"загадочные новые земли.\""
+		],
+		"city_1": [
+			"\"Ох, моя голова\""
+		],
+		"city_2": [
+			"\"О… ОХ ВАУ!\""
+		],
+		"city_3": [
+			"\"грнн\""
+		],
+		"city_4": [
+			"\"Как тошнотворно. . .\""
+		],
+		"city_5": [
+			"\". . .вау.\""
+		],
+		"city_6": [
+			"\"Это место. . . на самом деле довольно красиво.\""
+		],
+		"city_7": [
+			"\"Смотри на это. Эти люди действительно постарались",
+			"для Хэллоуина.\""
+		],
+		"city_8": [
+			"\"Да. . . Думаю, мы хорошо впишемся.\""
+		],
+		"city_9": [
+			"\"Мухаха, как злой ты, граф Лейли!\""
+		],
+		"city_10": [
+			"\"Ну, граф Энди. Будем ли мы отмечать наше побег",
+			"разделив конфеты, которые нам дала та девочка?\""
+		],
+		"city_11": [
+			"\"Нет! Я хочу высосать твою кровь!\""
+		],
+		"city_12": [
+			"\"Что нет!!!\""
+		],
+		"city_13": [
+			"\"Время расплаты!!\""
+		],
+		"city_14": [
+			"\"Ха-ха, Энди! Это щекотно!\""
+		],
+		"city_15": [
+			"\"Ха-ха, прости, прости. Похоже, я просто взволнована,",
+			"что наконец свободна от этого места.\""
+		],
+		"city_16": [
+			"\"Да, да. Давай, давай поедим заслуженные конфеты\""
+		],
 		"city_bite": [
-			"Your brother bites down on your necklace"
+			"Твой брат кусает твое ожерелье"
 		],
-        "candyeating_1": [
-            "\"?!\""
-        ],
-        "candyeating_2": [
-            "\"Oh right there's only 5 pieces.\""
-        ],
-        "candyeating_3": [
-            "\"Yeah… if that little girl hadn’t put that piece",
-            "in the dam toilet we would have an equal split.\""
-        ],
-        "givecandy_1": [
-            "\"Here Andy. You can have it.\""
-        ],
-        "givecandy_2": [
-            "\"Oh thank you!\""
-        ],
-        "givecandy_3": [
-            "\"I don’t need it. Long as we are always together,",
-            "that’s enough for me.\""
-        ],
-        "givecandy_4": [
-            "\"Crunch, crunch. Is that so?\""
-        ],
-        "givecandy_5": [
-            "\"Absolutely, I know as long as we stick together,",
-            "we will do just fine!\""
-        ],
-        "givecandy_6": [
-            "\"A fresh start?\""
-        ],
-        "givecandy_7a": [
-            "\"Yeah. . .guess we’ve managed to escape not only","that apartment but our own sins as well.\""
-        ],
+		"candyeating_1": [
+			"\"?!\""
+		],
+		"candyeating_2": [
+			"\"О, точно, всего 5 кусочков.\""
+		],
+		"candyeating_3": [
+			"\"Да… если бы та девочка не положила кусок",
+			"в чертов туалет, у нас было бы равное распределение.\""
+		],
+		"givecandy_1": [
+			"\"Вот, Энди. Ты можешь это взять.\""
+		],
+		"givecandy_2": [
+			"\"О, спасибо!\""
+		],
+		"givecandy_3": [
+			"\"Мне это не нужно. Пока мы всегда вместе,",
+			"это достаточно для меня.\""
+		],
+		"givecandy_4": [
+			"\"Хруст, хруст. Это так?\""
+		],
+		"givecandy_5": [
+			"\"Абсолютно, я знаю, что пока мы держимся вместе,",
+			"мы справимся!\""
+		],
+		"givecandy_6": [
+			"\"Свежий старт?\""
+		],
+		"givecandy_7a": [
+			"\"Да. . . думаю, мы успели сбежать не только",
+			"из той квартиры, но и от наших собственных грехов.\""
+		],
 		"givecandy_7b": [
-			"\"Isn't that lucky!\""
+			"\"Разве это не удача!\""
 		],
-        "givecandy_8": [
-            "\"I sure am the luckiest man alive.\""
-        ],
-        "givecandy_9": [
-            "\"That’s right. And don’t you forget it!\""
-        ],
-        "givecandy_10": [
-            "\"Haha ok, ok.\""
-        ],
-        "eatcandy_1": [
-            "\"Crunch Crunch.\""
-        ],
-        "eatcandy_2": [
-            "\". . .\""
-        ],
-        "eatcandy_3": [
-            "\". . .\""
-        ],
-        "eatcandy_4": [
-            "\". . .\""
-        ],
-        "eatcandy_5": [
-            "\". . well guess we have an opportunity to start",
-            "over now.\""
-        ],
-        "eatcandy_6a": [
-            "\"Oh right. Assuming this place is a long way away","from that apartment, it is possible we are not even\""
-        ],
+		"givecandy_8": [
+			"\"Я действительно самый удачливый человек на свете.\""
+		],
+		"givecandy_9": [
+			"\"Это правда. И не забывай это!\""
+		],
+		"givecandy_10": [
+			"\"Ха-ха, хорошо, хорошо.\""
+		],
+		"eatcandy_1": [
+			"\"Хруст Хруст.\""
+		],
+		"eatcandy_2": [
+			"\". . .\""
+		],
+		"eatcandy_3": [
+			"\". . .\""
+		],
+		"eatcandy_4": [
+			"\". . .\""
+		],
+		"eatcandy_5": [
+			"\". . . ну, похоже, у нас есть возможность начать",
+			"снова.\""
+		],
+		"eatcandy_6a": [
+			"\"О, точно. Если это место далеко",
+			"от той квартиры, возможно, мы даже не\""
+		],
 		"eatcandy_6b": [
-			"\"in our own country right now.\""
+			"\"в нашей стране прямо сейчас.\""
 		],
-        "eatcandy_7": [
-            "\"Exciting. Tho this place seems to be. . . livelier.\""
-        ],
-        "eatcandy_8": [
-            "\"Less dystopian if you know what I mean.\""
-        ],
-        "eatcandy_9": [
-            "\"Yeah. But to establish new lives we need jobs and",
-            "another roof over our heads.\""
-        ],
-        "eatcandy_10": [
-            "\"Never said it would be easy. But being homeless",
-            "probably gives us better odds of not starving to death.\""
-        ],
-        "eatcandy_11": [
-            "\". . .you don’t seem very excited?\""
-        ],
-        "eatcandy_12": [
-            "\". . .I wonder if I’ll ever see Julia again.\""
-        ],
-        "eatcandy_13": [
-            "\"!?\""
-        ],
-        "eatcandy_14": [
-            "\"Even in a different country that hussy still has some",
-            "hold over your mind.\""
-        ],
-        "eatcandy_15": [
-            "\"I’m the kind of person to worry.\""
-        ],
-        "eatcandy_16": [
-            "\"If you really care about that hussy so much let's see",
-            "if we can. . .\""
-        ],
-        "candyshare_1": [
-            "\"Hay Andy, want to share?\""
-        ],
-        "candyshare_2": [
-            "\"Oh? Sure, but how are you going to-\""
-        ],
-        "candyshare_3": [
-            "Ashley puts the candy in her mouth"
-        ],
-        "candyshare_4": [
-            "Its sweet but missing something."
-        ],
-        "candyshare_5": [
-            "\". . .Ashley?\""
-        ],
-        "candyshare_7": [
-            "\"!?\""
-        ],
-        "candyshare_8": [
-            "You two fight for a few moments before Andrew claims",
-            "the candy from your mouth."
-        ],
-        "candyshare_9": [
-            "\"GULP\""
-        ],
-        "candyshare_11": [
-            "\"Aww boo I lost it.\""
-        ],
-        "candyshare_12": [
-            "\"Ha, better luck next time.\""
-        ],
-        "candyshare_13": [
-            "\"Ohhhhh a next time? Someone seems excited.\""
-        ],
-        "candyshare_14": [
-            "\"What can I say? New world, candy in our mouths.",
-            "It’s an exciting time.\""
-        ],
-        "candyshare_15": [
-            "\"Of course.\""
-        ],
-        "candyshare_16": [
-            "\". . .\""
-        ],
-        "candyshare_17": [
-            "\". . .\""
-        ],
-        "candyshare_18": [
-            "\"You know Andy, this is our opportunity for a fresh start.\""
-        ],
-        "candyshare_19": [
-            "\"A fresh start?\""
-        ],
-        "candyshare_20": [
-            "\"Yeah. . .we’ve managed to escape not only that apartment",
-            "but our own past as well. Isn't that lucky!\""
-        ],
-        "candyshare_21": [
-            "\"I sure am the luckiest man alive.\""
-        ],
-        "candyshare_22": [
-            "\"That’s right. And don’t you forget it!\""
-        ],
-        "candyshare_23": [
-            "\"Haha ok, ok.\""
-        ],
-        "bookss": [
-            "You feel that Andrew once put something important here."
-        ]
+		"eatcandy_7": [
+			"\"Волнующе. Хотя это место кажется. . . более живым.\""
+		],
+		"eatcandy_8": [
+			"\"Менее дистопическим, если ты понимаешь, о чем я.\""
+		],
+		"eatcandy_9": [
+			"\"Да. Но чтобы начать новую жизнь, нам нужны рабочие места",
+			"и крыша над головой.\""
+		],
+		"eatcandy_10": [
+			"\"Я никогда не говорил, что это будет легко. Но быть бездомными",
+			"наверное, дает нам лучшие шансы не умереть с голода.\""
+		],
+		"eatcandy_11": [
+			"\". . . ты не выглядишь очень взволнованным?\""
+		],
+		"eatcandy_12": [
+			"\". . . интересно, увижу ли я когда-нибудь Джулию снова.\""
+		],
+		"eatcandy_13": [
+			"\"!?\""
+		],
+		"eatcandy_14": [
+			"\"Даже в другой стране эта хулиганка все равно имеет",
+			"власть над твоим разумом.\""
+		],
+		"eatcandy_15": [
+			"\"Я человек, который беспокоится.\""
+		],
+		"eatcandy_16": [
+			"\"Если тебе действительно так важна эта хулиганка, давай посмотрим,",
+			"можем ли мы. . .\""
+		],
+		"candyshare_1": [
+			"\"Эй, Энди, хочешь поделиться?\""
+		],
+		"candyshare_2": [
+			"\"О? Конечно, но как ты собираешься-\""
+		],
+		"candyshare_3": [
+			"Эшли кладет конфету в рот"
+		],
+		"candyshare_4": [
+			"Она сладкая, но чего-то не хватает."
+		],
+		"candyshare_5": [
+			"\". . .Эшли?\""
+		],
+		"candyshare_7": [
+			"\"!?\""
+		],
+		"candyshare_8": [
+			"Вы двое боретесь несколько минут, прежде чем Эндрю забирает",
+			"конфету из твоего рта."
+		],
+		"candyshare_9": [
+			"\"ГЛУП\""
+		],
+		"candyshare_11": [
+			"\"Аа, я потеряла это.\""
+		],
+		"candyshare_12": [
+			"\"Ха, удачи в следующий раз.\""
+		],
+		"candyshare_13": [
+			"\"Ооооо, следующий раз? Кто-то кажется взволнованным.\""
+		],
+		"candyshare_14": [
+			"\"Что могу сказать? Новый мир, конфеты в наших ротах.",
+			"Это захватывающее время.\""
+		],
+		"candyshare_15": [
+			"\"Конечно.\""
+		],
+		"candyshare_16": [
+			"\". . .\""
+		],
+		"candyshare_17": [
+			"\". . .\""
+		],
+		"candyshare_18": [
+			"\"Знаешь, Энди, это наша возможность для нового старта.\""
+		],
+		"candyshare_19": [
+			"\"Новый старт?\""
+		],
+		"candyshare_20": [
+			"\"Да. . . мы успели сбежать не только из той квартиры,",
+			"но и от нашего прошлого. Разве это не удача!\""
+		],
+		"candyshare_21": [
+			"\"Я действительно самый удачливый человек на свете.\""
+		],
+		"candyshare_22": [
+			"\"Это правда. И не забывай это!\""
+		],
+		"candyshare_23": [
+			"\"Ха-ха, хорошо, хорошо.\""
+		],
+		"bookss": [
+			"Ты чувствуешь, что Эндрю когда-то положил что-то важное сюда."
+		]
 	}
 }

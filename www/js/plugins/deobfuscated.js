@@ -1397,7 +1397,6 @@ MenuOptions.orderAndIcons = {
   Options: "tcocs_menu_icon",
   Language: "tcocs_menu_icon",
   "Vision Room": "tcocs_menu_icon",
-  Credits: "tcocs_menu_icon",
   "Quit Game": "tcocs_menu_icon"
 };
 MenuOptions.labels = function () {
@@ -1542,7 +1541,6 @@ Window_Language.prototype.refresh = function () {
     this.resetFontSettings();
     this.contents.fontBold = true;
     this.changeTextColor(TXT_COLOR);
-    this.drawText(Lang.translate("Credits"), _0xa513eb.x + _0x1972a3 + _0x4f1636, _0xa513eb.y + _0x4c1de7, _0xa513eb.width - 8 - _0x1972a3, "left");
     this.contents.fontBold = false;
     var _0x19b0c4 = this.contents;
     var _0x305be0 = ImageManager.loadSystem("stamp");
@@ -2119,13 +2117,6 @@ Font.resolve = function (_0x506d46) {
   return _0x4143ab;
 };
 const _WB_RFS = Window_Base.prototype.resetFontSettings;
-Window_Base.prototype.resetFontSettings = function () {
-  _WB_RFS.apply(this, arguments);
-  if (Font.face !== "" && this.constructor.name !== "Window_Credits") {
-    this.contents.fontFace = Font.face;
-    this.contents.fontSize = Font.size;
-  }
-};
 const LANG_DIR = "languages/";
 const LANG_LOC = "english";
 const LANG_TXT = "english_txt";
@@ -2520,15 +2511,6 @@ Lang.loadTXT = function (_0x45ebf2) {
         _0x45d50b.fontFace = _0x1ca2df;
       } else {
         _0x45d50b.fontSize = parseInt(_0x1ca2df);
-        _0x4d0f95 = "";
-      }
-    } else if (_0x323e9f === "CREDITS") {
-      var _0x3fee83 = _0x1ca2df.split(":");
-      if (_0x3fee83.length > 1) {
-        _0x1ca2df = _0x3fee83[1].trim();
-      }
-      _0x45d50b.langInfo[_0x58c1a9 - 1] = _0x1ca2df;
-      if (_0x58c1a9 >= 3) {
         _0x4d0f95 = "";
       }
     } else if (_0x323e9f in _0x417664) {
