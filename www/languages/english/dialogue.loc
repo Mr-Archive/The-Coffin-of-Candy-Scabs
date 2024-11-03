@@ -42,6 +42,7 @@
 		"Instant": "Instant"
 	},
 	"labelLUT": {
+		"Umaru": "Umaru",
 		"WjQC7gwG": "Mop",
 		"BvGWbZMb": "Tomato Can",
 		"MQdJwNKw": "Laundry",
@@ -19661,6 +19662,15 @@
         ],
         "bookss": [
             "You feel that Andrew once put something important here."
-        ]
+        ],
+		"umaru": [
+			"Instead of a bathroom there appears to be a distortion","in space time."
+		],
+		"umaru2": [
+			"Perhaps all that portal travel caused a few","unexpected things to happen"
+		],
+		"umaru3": [
+			"\"leave me alooone pwease...\""
+		]
 	}
 }
