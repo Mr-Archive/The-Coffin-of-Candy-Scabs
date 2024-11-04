@@ -42,6 +42,7 @@
 		"Instant": "Instantané"
 	},
 	"labelLUT": {
+		"Sans": "Sans",
 		"Umaru": "Umaru",
 		"WjQC7gwG": "Mop",
 		"BvGWbZMb": "Tomato Can",
@@ -19677,6 +19678,9 @@
 		],
 		"umaru3": [
 			"\"leave me alooone pwease...\""
+		],
+		"bossfightdialogue1": [
+			"unused boss fight dialogue 1"
 		]
 	}
 }
