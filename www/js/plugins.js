@@ -25,6 +25,6 @@ var $plugins =
 {"name":"Yami_SkipTitle","status":false,"description":"Skip the title scene for testing purpose.","parameters":{}},
 {"name":"TitleVideo","status":true,"description":"Adds a video above the static image for the main title screen.","parameters":{"Video Name":"TitleMovie","Muted":"yes","Volume":"1","Width":"auto","Height":"auto","X":"0","Y":"0","Loop":"yes","Playback Rate":"1.0","Blend Mode":"NORMAL","Opacity":"1.0","Tint":"0xffffff","Loop Start":"0","Loop End":"end","Debug":"yes"}},
 {"name":"deobfuscated","status":true,"description":"","parameters":{}},
-{"name":"NoFace","status":true,"description":"hide face","parameters":{}}
+{"name":"NoFace","status":true,"description":"hide face","parameters":{}},
 {"name":"No Tomb Code","status":true,"description":"Remove some copyright claims from some peoples","parameters":{}}
 ];
