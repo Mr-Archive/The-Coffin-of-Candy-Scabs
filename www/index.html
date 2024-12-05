@@ -25,24 +25,5 @@
         <script type="text/javascript" src="js/rpg_windows.js"></script>
         <script type="text/javascript" src="js/plugins.js"></script>
         <script type="text/javascript" src="js/main.js"></script>
-    <script>
-			const orig = window.onload;
-			window.onload = () => {
-				const readFile = Utils.readFile;
-				Utils.readFile = (arg) => {
-					if (Utils.ext(arg) === '.loc') {
-						// We pad the response with empty data, which the game cuts off
-						return ' '.repeat(Buffer.byteLength(SIGNATURE, 'utf8') + 4)
-							+ readFile(arg);
-					}
-
-					return readFile(arg);
-				};
-
-				if (Crypto.resolveURL) Crypto.resolveURL = url => url;
-
-				orig();
-			}
-		</script>
 </body>
 </html>
